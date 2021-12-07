@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Android Development**
  
-- 🔥 I'm also enhancing myself in the field of **Banckend**
+- 🔥 I'm also enhancing myself in the field of **Backend**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
