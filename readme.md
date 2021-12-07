@@ -25,10 +25,10 @@
     <a href="" target="_blank"><img src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png" width="45" height="45"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
    <a href="" target="_blank"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="express" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href ="" target="_blank"><img src="https://res.cloudinary.com/dnowsn1o5/image/upload/v1638334142/fluttter_orxhyq.jpg"/></a>
-    <a href="" target="_blank"><img src="https://res.cloudinary.com/dnowsn1o5/image/upload/v1638334143/nextjs_q6pffb.png"/></a>
-    <a href="" target"_blank"><img src="https://res.cloudinary.com/dnowsn1o5/image/upload/v1638424274/django_iaib2d.png"/></a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40"/> </a> 
+    <a href ="" target="_blank"><img src="https://res.cloudinary.com/dnowsn1o5/image/upload/v1638334142/fluttter_orxhyq.jpg" width="40" height="40"/></a>
+    <a href="" target="_blank"><img src="https://res.cloudinary.com/dnowsn1o5/image/upload/v1638334143/nextjs_q6pffb.png" *width="40" height="40"**/></a>
+    <a href="" target"_blank"><img src="https://res.cloudinary.com/dnowsn1o5/image/upload/v1638424274/django_iaib2d.png" width="40" height="40"/></a>
 </p>
  
 <p align="center">
