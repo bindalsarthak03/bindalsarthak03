@@ -4,9 +4,6 @@
 <h3 align="center">I'm a passionate Competitive Programmer and  a Developer from India.</h3>
 
  ## 🙋♂️ About Me
-
-
-- 🌱 I’m currently learning **Android Development**
  
 - 🔥 I'm also enhancing myself in the field of **Backend**
 
