@@ -46,7 +46,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/bindalsarthak03/github-readme-activity-graph"><img alt="Sarthak Bindal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bindalsarthak03&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/bindalsarthak03/github-readme-activity-graph"><img alt="Sarthak Bindal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bindalsarthak03&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" /></a>
 
  ![trophy](https://github-profile-trophy.vercel.app/?username=bindalsarthak03&row=1&no-bg=true)
 
