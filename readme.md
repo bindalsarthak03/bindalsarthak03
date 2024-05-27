@@ -65,4 +65,4 @@
 </p>
  
 ## ❤ Views and Followers
-<a href="https://github.com/bindalsarthak03?tab=followers"><img src="https://img.shields.io/github/followers/bindalsarthak03?label=Followers&style=social" alt="GitHub Badge"></a>   ![Profile views](https://gpvc.arturio.dev/bindalsarthak03)  
+<a href="https://github.com/bindalsarthak03?tab=followers"><img src="https://img.shields.io/github/followers/bindalsarthak03?label=Followers&style=social" alt="GitHub Badge">![](https://komarev.com/ghpvc/?username=bindalsarthak03)
