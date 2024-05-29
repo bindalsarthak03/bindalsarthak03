@@ -12,8 +12,11 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+    <a href="https://nodejs.org/en" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png?f=webp" width="40" height="40"/> </a> 
+ <a href="https://expressjs.com/" target="_blank"><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://res.cloudinary.com/dnowsn1o5/image/upload/v1638334143/react_bywrvd.png" width="40" height="40"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1000/1*C24eNZfu0CT5fSTBt6IugA.png" width="40" height="40"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
@@ -24,6 +27,7 @@
     <a href ="" target="_blank"><img src="https://res.cloudinary.com/dnowsn1o5/image/upload/v1638334142/fluttter_orxhyq.jpg" width="40" height="40"/></a>
     <a href="" target="_blank"><img src="https://res.cloudinary.com/dnowsn1o5/image/upload/v1638334143/nextjs_q6pffb.png" *width="40" height="40"**/></a>
     <a href="" target"_blank"><img src="https://res.cloudinary.com/dnowsn1o5/image/upload/v1638424274/django_iaib2d.png" width="40" height="40"/></a>
+ <a href="https://nginx.org/en/" target="_blank"><img src="https://kinsta.com/wp-content/uploads/2018/03/what-is-nginx.png" width="40" height="40"/> </a> 
 </p>
  
 <p align="center">
