@@ -9,6 +9,15 @@
 
 - 📫 How to reach me **bindalsarthak03@gmail.com**
 
+- 📝 My Resume [Sarthak's Resume](https://drive.google.com/file/d/1K_2xcqDXLjdIBAFho_wE_sPqbzYdFxF4/view?usp=drive_link)
+
+## Experience
+
+- Full Stack Intern at **[Lexship](https://www.lexship.com/) [May'24 - Present]**
+
+- SDE Intern at **[Maximl](https://maximl.com/) [Jan'24 - Apr'24]**
+
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
